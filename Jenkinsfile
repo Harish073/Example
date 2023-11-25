@@ -7,3 +7,5 @@ pipeline{
         sh "docker images"
         sh "docker run appimage"
       }
+    }
+}
