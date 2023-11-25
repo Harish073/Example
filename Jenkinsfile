@@ -1,5 +1,5 @@
 pipeline{
-  agnet any
+  agent any
     stages{
       stage('dockerfile'){
         echo "Hi Mike"
